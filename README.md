@@ -2,6 +2,7 @@
 
 An interactive web application built with **Streamlit** and **Groq API** that acts as an intelligent code review assistant. It analyzes your code for bugs, performance optimizations, security vulnerabilities, and provides corrected refactored code.
 
+👉 **Live Demo:** [Check out the Live App here!](https://ai-code-reviewer-4inzist4u4luuzt5brfoqc.streamlit.app/)
 ---
 
 ##  Features
